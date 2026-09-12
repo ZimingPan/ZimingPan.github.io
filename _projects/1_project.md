@@ -11,5 +11,6 @@ category: research
 
 模型在每个宏步联合预测物理可达的稀疏晶格编辑、累计物理时间和下一潜在状态，并通过物理机制约束保持结构与时间语义，实现事件级模拟加速。
 
+**Project page:** [atomworld-mirror.github.io](https://atomworld-mirror.github.io/)  
 **领域：** 物理 AI · 材料模拟 · 世界模型  
 **论文：** *AtomWorld-Mirror: Macro-Step World Modeling of Critical Evolution Backbones for Materials Dynamics*（NeurIPS 2026，Under Review）
