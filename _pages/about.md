@@ -2,13 +2,13 @@
 layout: about
 title: about
 permalink: /
-subtitle: 物理 AI · 生成模型 · 多模态
+subtitle: Physics AI · Generative Models · Multimodal Learning
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false
   more_info: >
-    <p>延世大学 电子信息本科</p>
+    <p>Yonsei University · Electrical Engineering</p>
     <p><a href="mailto:panziming@yonsei.ac.kr">panziming@yonsei.ac.kr</a></p>
 selected_papers: true
 social: true
@@ -18,19 +18,19 @@ latest_posts:
   enabled: false
 ---
 
-我关注物理 AI、生成模型与多模态智能，致力于构建能够理解并模拟真实世界演化的模型。目前就读于延世大学电子信息专业，并在清华大学智能产业研究院和中石油集团开展研究与工程实践。
+I work on physics AI, generative models, and multimodal intelligence. I am an undergraduate student in Electrical Engineering at Yonsei University, with research and engineering experience at Tsinghua University's Institute for AI Industry Research (AIR) and CNPC.
 
-我的研究聚焦于扩散模型训练与推理、视频世界模型、材料模拟和大模型后训练。当前项目 **AtomWorld-Mirror** 通过沿关键演化主干进行宏步推进，学习材料结构的长时程动力学。
+My research focuses on diffusion model training and inference, video world models, materials simulation, and large language model post-training. My current project, **AtomWorld-Mirror**, learns long-horizon materials dynamics by advancing along critical evolution backbones in latent space.
 
 ## Education
 
-- **延世大学（首尔）**，电子信息（信息工程），2025–至今
+- **Yonsei University**, Electrical Engineering, 2025–present
 
 ## Experience
 
-- **中石油集团经济技术研究院**，LLM 后训练实习，2026–至今
-- **清华大学智能产业研究院（AIR）**，科研实习，2026
+- **China National Petroleum Corporation (CNPC)**, LLM Post-training Intern, 2026–present
+- **Tsinghua University Institute for AI Industry Research (AIR)**, Research Intern, 2026
 
 ## Research
 
-我的工作连接生成模型、物理模拟与高效系统：从 AtomWorld-Mirror 的原子世界建模，到扩散模型蒸馏和 Diffusion Transformer 服务优化。
+My work connects generative models, physical simulation, and efficient AI systems, from atomic world modeling with AtomWorld-Mirror to diffusion model distillation and scalable Diffusion Transformer serving.
