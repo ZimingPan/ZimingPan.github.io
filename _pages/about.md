@@ -22,7 +22,7 @@ I focus on physics AI, generative models, and ML systems. I am an undergraduate 
 
 ## Education
 
-- **[Yonsei University](https://www.yonsei.ac.kr/en_sc/)**, Applied Information Engineering, 2025–2029
+- **[Yonsei University](https://www.yonsei.ac.kr)**, Applied Information Engineering, 2025–2029
 
 ## Experience
 
