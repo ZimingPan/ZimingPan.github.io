@@ -8,7 +8,7 @@ profile:
   image: prof_pic.jpg
   image_circular: false
   more_info: >
-    <p>Yonsei University · Electrical Engineering</p>
+    <p>Yonsei University · Sinchon Campus<br>50 Yonsei-ro, Seodaemun-gu<br>Seoul 03722, Republic of Korea</p>
     <p><a href="mailto:panziming@yonsei.ac.kr">panziming@yonsei.ac.kr</a></p>
 selected_papers: true
 social: true
