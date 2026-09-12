@@ -29,7 +29,7 @@ My research focuses on diffusion model training and inference, video world model
 ## Experience
 
 - **China National Petroleum Corporation (CNPC)**, LLM Post-training Intern, 2026–present
-- **Institute for AI Industry Research (AIR), Tsinghua University**, Research Intern, 2026<br>**Aiot Lab** · [Assistant Prof. Kun Li](https://www.likun.tech/)
+- **Institute for AI Industry Research (AIR), Tsinghua University**, Research Intern, 2026–present<br>**Aiot Lab** · [Assistant Prof. Kun Li](https://www.likun.tech/)
 
 ## Research
 
