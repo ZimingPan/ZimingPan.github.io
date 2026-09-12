@@ -34,4 +34,4 @@ My research focuses on diffusion model training and inference, video world model
 
 ## Research
 
-My work connects generative models, physical simulation, and efficient AI systems, from atomic world modeling with AtomWorld-Mirror to diffusion model distillation and scalable Diffusion Transformer serving.
+My work connects generative models, physical simulation, and efficient AI systems.
