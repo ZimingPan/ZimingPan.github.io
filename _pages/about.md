@@ -11,7 +11,7 @@ profile:
     <p>Yonsei University<br>Sinchon Campus<br>50 Yonsei-ro, Seodaemun-gu<br>Seoul 03722, Republic of Korea</p>
     <p><a href="mailto:panziming@yonsei.ac.kr">panziming@yonsei.ac.kr</a></p>
 selected_papers: true
-social: true
+social: false
 announcements:
   enabled: false
 latest_posts:
