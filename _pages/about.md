@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Physics AI · Generative Models · ML Systems
+subtitle:
 profile:
   align: right
   image: prof_pic.jpg
