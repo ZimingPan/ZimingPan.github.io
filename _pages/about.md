@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Physics AI · Generative Models · Multimodal Learning
+subtitle: Physics AI · Generative Models · ML Systems
 profile:
   align: right
   image: prof_pic.jpg
@@ -29,7 +29,7 @@ My research focuses on diffusion model training and inference, video world model
 ## Experience
 
 - **China National Petroleum Corporation (CNPC)**, LLM Post-training Intern, 2026–present
-- **Tsinghua University Institute for AI Industry Research (AIR)**, Research Intern, 2026
+- **Institute for AI Industry Research (AIR), Tsinghua University**, Research Intern, 2026<br>**Aiot Lab** · [Assistant Prof. Kun Li](https://www.likun.tech/)
 
 ## Research
 
