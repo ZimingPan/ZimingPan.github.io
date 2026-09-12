@@ -18,7 +18,7 @@ latest_posts:
   enabled: false
 ---
 
-I work on physics AI, generative models, and ML systems. I am an undergraduate student in Applied Information Engineering at Yonsei University, with research experience at the Institute for AI Industry Research (AIR), Tsinghua University, CNPC, and Westlake University.
+My interests include physics AI, generative models, and ML systems. I am an undergraduate student in Applied Information Engineering at Yonsei University, with research experience at the Institute for AI Industry Research (AIR) Tsinghua University, CNPC, and Westlake University.
 
 ## Education
 
@@ -27,7 +27,7 @@ I work on physics AI, generative models, and ML systems. I am an undergraduate s
 ## Experience
 
 - **China National Petroleum Corporation (CNPC)**, Research Intern, 2026–present
-- **Institute for AI Industry Research (AIR), Tsinghua University**, Research Intern, 2026–present<br>Aiot Lab · [Assistant Prof. Kun Li](https://www.likun.tech/)
+- **Institute for AI Industry Research (AIR) Tsinghua University**, Research Intern, 2026–present<br>Aiot Lab · [Assistant Prof. Kun Li](https://www.likun.tech/)
 - **School of Engineering, Westlake University**, Research Intern, 2025–2026<br>[@LACCI Lab](https://lacci.lab.westlake.edu.cn/) · [Assistant Prof. Xianda Gong](https://scholar.google.com.hk/citations?user=pdw-z0sAAAAJ&hl=zh-CN&oi=ao)
 
 ## Research
