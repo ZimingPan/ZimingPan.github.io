@@ -18,19 +18,17 @@ latest_posts:
   enabled: false
 ---
 
-I work on physics AI, generative models, and multimodal intelligence. I am an undergraduate student in Electrical Engineering at Yonsei University, with research and engineering experience at Tsinghua University's Institute for AI Industry Research (AIR) and CNPC.
-
-My research focuses on diffusion model training and inference, video world models, materials simulation, and large language model post-training. My current project, **AtomWorld-Mirror**, learns long-horizon materials dynamics by advancing along critical evolution backbones in latent space.
+I work on physics AI, generative models, and ML systems. I am an undergraduate student in Applied Information Engineering at Yonsei University, with research experience at the Institute for AI Industry Research (AIR), Tsinghua University, CNPC, and Westlake University.
 
 ## Education
 
-- **Yonsei University**, Electrical Engineering, 2025–present
+- **Yonsei University**, Applied Information Engineering, 2025–present
 
 ## Experience
 
-- **China National Petroleum Corporation (CNPC)**, LLM Post-training Intern, 2026–present
+- **China National Petroleum Corporation (CNPC)**, Research Intern, 2026–present
 - **Institute for AI Industry Research (AIR), Tsinghua University**, Research Intern, 2026–present<br>Aiot Lab · [Assistant Prof. Kun Li](https://www.likun.tech/)
-- **School of Engineering, Westlake University**, Research Intern, 2025–2026<br>[@LACCI Lab](https://lacci.lab.westlake.edu.cn/) · [Assistant Prof. Xianda Gong](https://scholar.google.com.hk/citations?user=pdw-z0sAAAAJ&hl=zh-CN&oi=ao)
+- **School of Engineering, Westlake University**, Research Intern, 2025–2026<br>[LACCI Lab](https://lacci.lab.westlake.edu.cn/) · [Assistant Prof. Xianda Gong](https://scholar.google.com.hk/citations?user=pdw-z0sAAAAJ&hl=zh-CN&oi=ao)
 
 ## Research
 
