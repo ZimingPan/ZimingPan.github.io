@@ -22,13 +22,13 @@ My interests include physics AI, generative models, and ML systems. I am an unde
 
 ## Education
 
-- **Yonsei University**, Applied Information Engineering, 2025–2029
+- **[Yonsei University](https://www.yonsei.ac.kr/en_sc/)**, Applied Information Engineering, 2025–2029
 
 ## Experience
 
-- **China National Petroleum Corporation (CNPC)**, Research Intern, 2026–present
+- **[China National Petroleum Corporation (CNPC)](https://www.cnpc.com.cn/en/)**, Research Intern, 2026–present
 - **Institute for AI Industry Research (AIR) Tsinghua University**, Research Intern, 2026–present<br>Aiot Lab · [Assistant Prof. Kun Li](https://www.likun.tech/)
-- **School of Engineering, Westlake University**, Research Intern, 2025–2026<br>[@LACCI Lab](https://lacci.lab.westlake.edu.cn/) · [Assistant Prof. Xianda Gong](https://scholar.google.com.hk/citations?user=pdw-z0sAAAAJ&hl=zh-CN&oi=ao)
+- **[School of Engineering](https://en.westlake.edu.cn/academics/Schools/School_of_Engineering/), [Westlake University](https://www.westlake.edu.cn/)**, Research Intern, 2025–2026<br>[@LACCI Lab](https://lacci.lab.westlake.edu.cn/) · [Assistant Prof. Xianda Gong](https://scholar.google.com.hk/citations?user=pdw-z0sAAAAJ&hl=zh-CN&oi=ao)
 
 ## Research
 
