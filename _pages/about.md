@@ -18,7 +18,7 @@ latest_posts:
   enabled: false
 ---
 
-I am an undergraduate student in Applied Information Engineering at Yonsei University, with research experience at the Institute for AI Industry Research (AIR), Tsinghua University, CNPC, and Westlake University. My work connects generative models, physical simulation, and efficient AI systems.
+I am an undergraduate student in Applied Information Engineering at Yonsei University, with research experience at Tsinghua University, CNPC, and Westlake University. My work connects generative models, physical simulation, and efficient AI systems.
 
 ## Education
 
