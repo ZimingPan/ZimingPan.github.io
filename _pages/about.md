@@ -27,7 +27,7 @@ I focus on physics AI, generative models, and ML systems. I am an undergraduate 
 ## Experience
 
 - **Economics & Technology Research Institute, [China National Petroleum Corporation (CNPC)](https://www.cnpc.com.cn/en/)**<br>Research Intern, 2026–present
-- **[Institute for AI Industry Research (AIR)](https://air.tsinghua.edu.cn/en/)**, **[Tsinghua University](https://www.tsinghua.edu.cn/en/)**<br>Research Intern, 2026–present<br>@Aiot Lab · [Assistant Prof. Kun Li](https://www.likun.tech/)
+- **[Institute for AI Industry Research (AIR)](https://air.tsinghua.edu.cn/en/)**, **[Tsinghua University](https://www.tsinghua.edu.cn/en/)**<br>Research Intern, 2026–present<br>@Aiot Group · [Assistant Prof. Kun Li](https://www.likun.tech/)
 - **[Westlake University](https://www.westlake.edu.cn/)**<br>Research Intern, 2025–2026<br>[@LACCI Lab](https://lacci.lab.westlake.edu.cn/) · [Assistant Prof. Xianda Gong](https://scholar.google.com.hk/citations?user=pdw-z0sAAAAJ&hl=zh-CN&oi=ao)
 
 ## Research
