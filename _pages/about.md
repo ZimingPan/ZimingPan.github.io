@@ -32,4 +32,4 @@ I focus on physics AI, generative models, and ML systems. I am an undergraduate 
 
 ## Research
 
-My work connects generative models, physical simulation, and efficient AI systems.
+My work connects generative models, physical AI, and efficient AI systems.
