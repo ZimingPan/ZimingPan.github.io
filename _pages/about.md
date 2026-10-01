@@ -18,7 +18,7 @@ latest_posts:
   enabled: false
 ---
 
-I am an undergraduate student in Applied Information Engineering at Yonsei University, with research experience at Tsinghua University, CNPC, and Westlake University. My work connects generative models, physical simulation, and efficient AI systems.
+I am an undergraduate student in Applied Information Engineering at Yonsei University, with research experience at Tsinghua University, CNPC, and Westlake University. My work connects generative models, physical simulation, and efficient AI systems. At Tsinghua University, I was advised by Prof. Kun Li.
 
 ## Education
 
@@ -27,5 +27,5 @@ I am an undergraduate student in Applied Information Engineering at Yonsei Unive
 ## Experience
 
 - **Economics & Technology Research Institute, [China National Petroleum Corporation (CNPC)](https://www.cnpc.com.cn/en/)**<br>Research Intern, 2026–present
-- **[Institute for AI Industry Research (AIR)](https://air.tsinghua.edu.cn/en/)**, **[Tsinghua University](https://www.tsinghua.edu.cn/en/)**<br>Research Intern, 2026–present<br>@Aiot Group · [Assistant Prof. Kun Li](https://www.likun.tech/)
-- **[School of Engineering](https://en-soe.westlake.edu.cn/index.shtml)**, **[Westlake University](https://www.westlake.edu.cn/)**<br>Research Intern, 2025–2026<br>[@LACCI Lab](https://lacci.lab.westlake.edu.cn/) · [Assistant Prof. Xianda Gong](https://scholar.google.com.hk/citations?user=pdw-z0sAAAAJ&hl=zh-CN&oi=ao)
+- **[Institute for AI Industry Research (AIR)](https://air.tsinghua.edu.cn/en/)**, **[Tsinghua University](https://www.tsinghua.edu.cn/en/)**<br>Research Intern, 2026–present<br>@Aiot Group
+- **[School of Engineering](https://en-soe.westlake.edu.cn/index.shtml)**, **[Westlake University](https://www.westlake.edu.cn/)**<br>Research Intern, 2025–2026<br>[@LACCI Lab](https://lacci.lab.westlake.edu.cn/)
