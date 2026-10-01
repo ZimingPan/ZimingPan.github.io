@@ -18,7 +18,7 @@ latest_posts:
   enabled: false
 ---
 
-I am an undergraduate student in Applied Information Engineering at Yonsei University, with research experience at Tsinghua University, CNPC, and Westlake University. My work connects generative models, physical simulation, and efficient AI systems. At Tsinghua University, I was advised by Prof. Kun Li.
+I am an undergraduate student in Applied Information Engineering at Yonsei University, with research experience at Tsinghua University, CNPC, and Westlake University. My work connects generative models, physical simulation, and efficient AI systems. At Tsinghua University, I was advised by [Prof. Kun Li](https://www.likun.tech/).
 
 ## Education
 
