@@ -34,15 +34,15 @@
 
 // Yonsei blue theme.
 :root {
-  --global-theme-color: #003876;
-  --global-hover-color: #003876;
-  --global-code-bg-color: rgba(0, 56, 118, 0.05);
+  --global-theme-color: #00205b;
+  --global-hover-color: #00205b;
+  --global-code-bg-color: rgba(0, 32, 91, 0.05);
 }
 html[data-theme="dark"] {
   --global-theme-color: #80b3ff;
   --global-hover-color: #80b3ff;
 }
 .publications ol.bibliography li .abbr abbr {
-  background-color: #003876;
+  background-color: #00205b;
   color: #fff !important;
 }
