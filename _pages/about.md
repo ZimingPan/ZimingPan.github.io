@@ -38,7 +38,7 @@ I am an undergraduate student in Applied Information Engineering at Yonsei Unive
       <tbody>
         <tr>
           <th scope="row" style="width: 20%">October 2026</th>
-          <td>I'm happy to join EAI Times as a co-author and look forward to sharing more insights into science and technology!</td>
+          <td>I'm happy to join <a href="https://mp.weixin.qq.com/s/qh7szCts1hYI7j_q037UYQ" target="_blank" rel="external nofollow noopener">EAI Times</a> as a co-author and look forward to sharing more insights into science and technology!</td>
         </tr>
       </tbody>
     </table>
