@@ -18,7 +18,7 @@ latest_posts:
   enabled: false
 ---
 
-I am an undergraduate student in Applied Information Engineering at Yonsei University, with research experience at Tsinghua University, CNPC, and Westlake University. My research focuses on diffusion models, scientific computing, and multimodal generation. At Tsinghua University, I was advised by [Prof. Kun Li](https://www.likun.tech/).
+I am an undergraduate student in Applied Information Engineering at Yonsei University, with research experience at Tsinghua University, CNPC, and Westlake University. My research focuses on multimodal AI and scientific computing. At Tsinghua University, I was advised by [Prof. Kun Li](https://www.likun.tech/).
 
 ## Education
 
